@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="admin_js_override" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Admin JS Override</name>
+	<description>This extension allows to override Symphony's admin javascript. It simply appends a custom javascript file to the head of admin pages.</description>
+	<repo type="github">https://github.com/stuartgpalmer/admin-js-override</repo>
+	<types>
+		<type>Interface</type>
+	</types>
+	<authors>
+		<author>
+			<name github="stuartgpalmer" symphony="stuartgpalmer">Stuart Palmer</name>
+			<website>https://www.eyes-down.net</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2019-06-21" min="2.0.6">
+			<![CDATA[- Initial commit]]>
+		</release>
+	</releases>
+</extension>
