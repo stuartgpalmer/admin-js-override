@@ -17,3 +17,5 @@ This extension allows insertion of Javascript in the Symphony backend from the f
 ## Usage
 
 - Create a JS file at `workspace/js/admin_js_override.js `.
+
+Cloned from Admin CSS Overide. Thanks to [Michael E](https://github.com/michael-e).
